@@ -12,9 +12,12 @@
     "repositories": {
         "0": {
             "type": "composer",
-            "url": "http://toran.local.com/repo/packagist/"
+            "url": "https://packages.drupal.org/8"
         },
-        "packagist": false
+        "1": {
+            "type": "composer",
+            "url": "https://packagist.drupal-composer.org"
+        }
     },
     "require": {
         "composer/installers": "^1.2",
