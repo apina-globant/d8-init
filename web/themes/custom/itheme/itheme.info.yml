@@ -20,5 +20,5 @@ regions:
   page_bottom: 'Page bottom'
 
 libraries:
-  - 'hof/global-styling'
-  - 'hof/bootstrap-scripts'
+  - 'itheme/global-styling'
+  - 'itheme/bootstrap-scripts'
