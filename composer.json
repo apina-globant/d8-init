@@ -76,8 +76,5 @@
                 "type:drupal-drush"
             ]
         }
-    },
-    "config": {
-        "secure-http": false
     }
 }
